@@ -1,4 +1,4 @@
-# Method Scope Lab
+g# Method Scope Lab
 
 ## Learning Goals
 
